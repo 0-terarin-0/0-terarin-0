@@ -1,17 +1,6 @@
 # About Me
 
-Hello everyone! I'm Koki Teramoto, a developer from Japan🇯🇵. Nice to meet you!
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-  </picture>
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-  </picture>
-</p>
+Hello everyone! I'm Koki Teramoto, a developer from Japan 🇯🇵. Nice to meet you!
 
 ## SNS (Please contact via SNS)
 
@@ -22,7 +11,7 @@ Hello everyone! I'm Koki Teramoto, a developer from Japan🇯🇵. Nice to meet 
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,flutter,html,css,js,javascript," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,flutter,html,css,js" /> <br /><br />
 
 ## Frameworks and Library
 
