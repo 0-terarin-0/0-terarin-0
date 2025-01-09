@@ -2,15 +2,23 @@
 
 Hello everyone! I'm Koki Teramoto, a developer from Japan🇯🇵. Nice to meet you!
 
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
+  </picture>
+  <picture>
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
+  </picture>
+</p>
+
 ## SNS (Please contact via SNS)
 
 - [Instagram](https://www.instagram.com/_0_terarin_0_)
 - [X (Twitter)](https://x.com/_0_terarin_0_)
 - [Qiita](https://qiita.com/0_terarin_0)
 - [Zenn](https://zenn.dev/0_terarin_0)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
 
