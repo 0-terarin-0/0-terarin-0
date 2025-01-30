@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.67361347214097" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.67361347214097" y="0" width="3.1936201726260656" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.86723364476705" y="0" width="2.7230259484169714" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.59025959318404" y="0" width="2.6516118589242255" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="457.2418714521083" y="0" width="1.1481773736376013" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.3900488257459" y="0" width="0.9343828423975629" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.32443166814346" y="0" width="0.44010331828773985" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.7645349864312" y="0" width="0.23546501356887167" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.55603753623774" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.55603753623774" y="0" width="3.1927832772316385" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.7488208134694" y="0" width="2.7341295388658637" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.4829503523353" y="0" width="2.650916998035143" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="457.13386735037045" y="0" width="1.1478764911581445" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.28174384152857" y="0" width="0.9426651444994909" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.2244089860281" y="0" width="0.43998798821708707" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.66439697424516" y="0" width="0.33560302575488177" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                             </div>
                             <small>
                                 <div>20 MB</div>
-                                <div>97.54%</div>
+                                <div>97.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -233,7 +233,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>121 kB</div>
+                                <div>122 kB</div>
                                 <div>0.59%</div>
                             </small>
                         </div>
@@ -295,20 +295,20 @@
                                 CSS
                             </div>
                             <small>
-                                <div>41.7 kB</div>
+                                <div>42.1 kB</div>
                                 <div>0.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CMake
+                                TypeScript
                             </div>
                             <small>
-                                <div>10.5 kB</div>
-                                <div>0.05%</div>
+                                <div>14.9 kB</div>
+                                <div>0.07%</div>
                             </small>
                         </div>
                     </section>
